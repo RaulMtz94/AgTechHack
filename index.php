@@ -170,7 +170,7 @@
 						<li class="active"><a href="#">Inicio</a></li>
 						<li><a href="#">Cultivos</a></li>
 						<li><a href="#">Categorias</a></li>
-						<li><a href="#">Indice de produccion Sinaloa</a></li>
+						<li><a href="./estadisticos/displaying_data.php">Indice de produccion Sinaloa</a></li>
 
 						
 					</ul>
