@@ -85,6 +85,9 @@
 									<button class="search-btn">Buscar</button>
 								</form>
 							</div>
+							<div class="title-logo">
+								<h3 style="color:white;">Comercio agricola sin intermediarios!</h3>
+							</div>
 						</div>
 						<!-- /SEARCH BAR -->
 
@@ -239,7 +242,6 @@
 			<div class="container">
 				<!-- row -->
 				<div class="row">
-
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">

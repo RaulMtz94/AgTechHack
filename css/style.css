@@ -122,7 +122,10 @@ ul, ol {
   background-color: #FFF;
   width: 100%;
 }
-
+.title-logo{
+  color: withe;
+  background-color: withe;
+}
 textarea.input {
   padding: 15px;
   min-height: 90px;
@@ -446,7 +449,7 @@ textarea.input {
 #header {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: rgb(4, 78, 8);
+  background-color: #1E1F29;
 }
 
 .header-logo {
